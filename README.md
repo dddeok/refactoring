@@ -7,3 +7,4 @@
     - [8장](https://github.com/dddeok/refactoring/tree/main/src/8.move-function)
     - [9장](https://github.com/dddeok/refactoring/tree/main/src/9.data-organization)
     - [10장](https://github.com/dddeok/refactoring/tree/main/src/10.simplify-conditional-logic)
+    - [11장](https://github.com/dddeok/refactoring/tree/main/src/11.api-refactoring)
